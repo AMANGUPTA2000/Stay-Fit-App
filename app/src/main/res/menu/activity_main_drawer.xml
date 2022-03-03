@@ -3,6 +3,10 @@
     xmlns:aapt="http://schemas.android.com/aapt"
     xmlns:sweet="http://schemas.android.com/apk/res-auto">
 
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/account"
+        android:title="View Profile" />
 
     <item
         android:id="@+id/nav_share"

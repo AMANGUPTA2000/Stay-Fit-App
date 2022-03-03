@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_above="@+id/ll_footer_menu"
+        android:visibility="gone"
         app:adSize="BANNER"
         app:adUnitId="@string/banner_ad" />
 </LinearLayout>

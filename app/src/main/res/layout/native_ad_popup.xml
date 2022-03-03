@@ -13,5 +13,6 @@
         android:layout_above="@+id/ll_footer_menu"
         android:layout_gravity="center"
         app:adSize="280x50"
+        android:visibility="gone"
         app:adUnitId="@string/banner_ad" />
 </LinearLayout>

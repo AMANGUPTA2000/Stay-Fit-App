@@ -15,9 +15,10 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        app:srcCompat="@mipmap/logo1" />
+        android:paddingLeft="-16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@mipmap/stayfit_bg" />
 
     <TextView
         android:layout_width="match_parent"

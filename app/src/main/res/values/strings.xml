@@ -356,7 +356,7 @@
     <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
     <string name="common_open_on_phone">Open on phone</string>
 
-  <string name="english">English</string>
+    <string name="english">English</string>
     <string name="enter_chest">Enter Chest Circumference</string>
     <string name="enter_hdl">Enter HDL</string>
     <string name="enter_hip">Enter Hip Circumference</string>
@@ -653,11 +653,9 @@
     <string name="noreminders">Please set reminder</string>
 
 
-<!--    Walk and step-->
-<!---->
-<!---->
-
-
+    <!--    Walk and step-->
+    <!---->
+    <!---->
 
 
     <!-- Menu Items-->
@@ -666,7 +664,6 @@
     <string name="action_settings">Settings</string>
     <string name="action_main">Pedometer</string>
     <string name="action_training">Training</string>
-
 
 
     <!-- ReportFragment -->
@@ -813,7 +810,7 @@
 
     <!-- Will be removed on next update -->
     <string name="pref_daily_step_goal" translatable="false">com.crazytrends.healthmanager.WalkandStep.pref.daily_step_goal</string>
-<!--    <string name="notification_text_steps">%1$s of %2$s steps walked today.</string>-->
+    <!--    <string name="notification_text_steps">%1$s of %2$s steps walked today.</string>-->
     <string name="notification_text_steps">%1$s of steps walked today.</string>
     <string name="notification_text_distance">%1$.2f %2$s walked today.</string>
     <string name="notification_text_calories">Burned %.2f kcal today.</string>
@@ -917,5 +914,12 @@
     <string name="help_correctsteps_heading">Correct steps manually</string>
     <string name="help_correctsteps_selection">You can modify the detected daily steps in daily report view. This allows you to add steps you walked without the app or to correct the detected number of steps.</string>
     <string name="slide_5_desc_two">Click on \'Preferences\' to set your step size and customize your personal data.</string>
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
 
 </resources>

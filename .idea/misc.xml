@@ -4,13 +4,34 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/drawable/a1_grad.xml" value="0.2323076923076923" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/drawable/login_button_bk.xml" value="0.2323076923076923" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/activity_login.xml" value="0.2436923148431724" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/activity_main.xml" value="0.19444444444444445" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/activity_profile.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/activity_register.xml" value="0.2436923148431724" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/activity_workout.xml" value="0.18461539003270633" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/ad_unified.xml" value="0.15507692762747333" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/ad_unified_dialog.xml" value="0.21979166666666666" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/adview_layout_exit.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/blood_donation_calculator.xml" value="0.19444444444444445" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/content_main.xml" value="0.10677083333333333" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/fragment_cal.xml" value="0.20277777777777778" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/fragment_main.xml" value="0.20277777777777778" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/fragment_main1.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/fragment_work.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/home_page.xml" value="0.20277777777777778" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/layout_login.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/layout_register.xml" value="0.21979166666666666" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/native_ad.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/nav_header_main.xml" value="0.494769245287653" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/popup_bmr.xml" value="0.14907407407407408" />
-        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/splash.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/layout/splash.xml" value="0.14030769642485683" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/menu/activity_main_drawer.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/menu/main.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/menu/menu_main.xml" value="0.19722222222222222" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/menu/menu_options.xml" value="0.21979166666666666" />
+        <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/menu/menu_options_overview.xml" value="0.21979166666666666" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/mipmap-anydpi-v26/stayfit_logo_final.xml" value="0.16246154322878156" />
         <entry key="..\:/SVIT/SEM8/APPS/Stay-Fit/StayFit/app/src/main/res/mipmap-anydpi-v26/stayfit_logo_final_round.xml" value="0.2323076923076923" />
       </map>

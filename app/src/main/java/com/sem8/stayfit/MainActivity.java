@@ -34,6 +34,9 @@ import com.sem8.stayfit.fragment.Fragment_Reminder;
 import com.sem8.stayfit.fragment.Fragment_Walk_and_Step;
 import com.sem8.stayfit.fragment.Fragment_Workout;
 import com.sem8.stayfit.fragment.MainFragment;
+import com.sem8.stayfit.general.Splash;
+
+import javax.security.auth.login.LoginException;
 
 public class MainActivity extends AppCompatActivity implements OnNavigationItemSelectedListener {
     BottomNavigationView bottomNavigation;
@@ -57,7 +60,7 @@ public class MainActivity extends AppCompatActivity implements OnNavigationItemS
                     return true;
 
                 case R.id.navigation_world:
-                    toolbar.setTitle("Calculater");
+                    toolbar.setTitle("Calculator");
                     MainActivity.this.openFragment(Fragment_Calculate.newInstance(str, str));
                     return true;
 
@@ -193,8 +196,22 @@ public class MainActivity extends AppCompatActivity implements OnNavigationItemS
         }else  if(itemId == R.id.nav_privacy)
         {
 
-            Uri uri = Uri.parse("https://crazytrendsapp.blogspot.com/");
+            Uri uri = Uri.parse("https://stayfithealth.herokuapp.com/");
             Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+            startActivity(intent);
+
+        }
+//        else  if(itemId == R.id.nav_login)
+//        {
+//
+//            Intent intent = new Intent(this, LoginActivity.class);
+//            startActivity(intent);
+//
+//        }
+        else  if(itemId == R.id.nav_profile)
+        {
+
+            Intent intent = new Intent(this, ProfileActivity.class);
             startActivity(intent);
 
         }
